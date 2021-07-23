@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "816979669955",
+    "project_id": "bidkart-master",
+    "storage_bucket": "bidkart-master.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:816979669955:android:c01374671b48b38ddfc376",
+        "android_client_info": {
+          "package_name": "com.invaderx.firebasetrigger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "816979669955-mfdig9mefb1erat9tegdoq3jpgoflv03.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgLL5pFAGo76sSqDSsM2iFhtCCo1FiE3c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "816979669955-mfdig9mefb1erat9tegdoq3jpgoflv03.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
